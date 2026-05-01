@@ -43,13 +43,13 @@ The initial connection to the virtual machine via RDP.
 ### 2. Virtual Desktop Environment
 The fully functional Windows desktop environment, displaying real-time EC2 instance details.
 
-<img src="./images/Screenshot%202026-05-01%20221652.png" width="800" alt="Screenshot 2">
+<img src="./images/Screenshot%202026-05-01%20221708.png" width="800" alt="Screenshot 2">
 <br>
 
 ### 3. Start Menu & Applications
 Access to pre-installed tools and applications, including Server Manager and PowerShell.
 
-<img src="./images/Screenshot%202026-05-01%20221708.png" width="800" alt="Screenshot 3">
+<img src="./images/Screenshot%202026-05-01%20221652.png" width="800" alt="Screenshot 3">
 <br>
 
 ### 4. System Specifications
