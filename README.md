@@ -128,9 +128,12 @@ Contributions are what make the open-source community such an amazing place to l
 ---
 
 ## 📜 License
-This project is licensed under the MIT License.
 
-**Important**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the **MIT License**.
+
+> [!IMPORTANT]  
 > You are free to use, modify, and contribute to this project. However, proper attribution must be given to the original author. This project is created for learning and development purposes—do not claim this work as your own.
 
 ---
