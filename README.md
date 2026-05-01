@@ -5,7 +5,7 @@
 
   <p>
     <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Orange?style=for-the-badge&logo=airplay&logoColor=white" alt="Live Demo"></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub%20Repo-Black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/chimataraghuram"><img src="https://img.shields.io/badge/GitHub%20Repo-Black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   </p>
 
@@ -82,21 +82,13 @@ Discover what makes this cloud deployment powerful and efficient.
 
 ---
 
-## 🛑 The Problem
-Many students and developers face the challenge of **limited hardware resources** or the need to **test applications on a native Windows environment** while using other operating systems. Physical hardware is expensive, non-scalable, and fixed to a single location.
-
-- **High Costs:** Buying high-specs hardware for short-term projects is inefficient.
-- **Incompatibility:** Developing Windows-specific apps on macOS or Linux is tedious.
-- **Static Environment:** Fixed hardware cannot scale with growing project needs.
+## 🎯 Problem Statement
+Many users need a reliable Windows desktop environment for development, testing, or remote access, but face limitations such as low-spec hardware, lack of portability, and risk of system damage when running unknown or unstable applications. Additionally, there is a need for a secure and isolated environment where applications can be tested without affecting the host system or compromising personal data.
 
 ---
 
-## 💡 The Solution
-This project leverages **Amazon Web Services (AWS)** to provision a **Virtual Windows Desktop** that eliminates hardware barriers. By using **Amazon EC2** and **Windows Server 2022**, it provides a persistent, high-performance environment accessible through the **Remote Desktop Protocol (RDP)**.
-
-- **On-Demand:** Spin up the environment only when needed to save costs.
-- **Real-Time Access:** Immediate response with optimized AWS global networking.
-- **API Integrated:** Can be managed via AWS CLI or SDKs for automation.
+## 🚀 Solution
+To address this, a cloud-based virtual Windows desktop was implemented using Amazon EC2 with Windows Server, accessible via Remote Desktop Protocol (RDP). The system provides a fully isolated and scalable environment independent of the user’s local machine, enabling safe testing of applications within a sandbox. Security groups were configured to restrict access, ensuring controlled and secure connectivity. This solution allows users to work remotely, test software safely, and eliminate dependency on physical hardware.
 
 ---
 
@@ -154,7 +146,7 @@ This project is licensed under the MIT License.
 **Raghu**  
 *Cloud Enthusiast & Developer*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chimataraghuram)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 ---
