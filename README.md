@@ -6,7 +6,6 @@
   <p><i>High-Performance Windows Environments, Anywhere in the World.</i></p>
 
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Orange?style=for-the-badge&logo=airplay&logoColor=white" alt="Live Demo"></a>
     <a href="https://github.com/chimataraghuram"><img src="https://img.shields.io/badge/GitHub%20Repo-Black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   </p>
@@ -22,14 +21,6 @@
 
 ---
 
-## 🌐 Live Demo
-Access the cloud environment and experience the virtual desktop firsthand.
-
-> "The future of development is in the cloud—accessible, scalable, and always ready."
-
-[**Access Live Desktop ➜**](https://aws.amazon.com/console/)
-
----
 
 ## 🖼️ Project Screenshots
 *Visual evidence of the deployment and configuration process.*
