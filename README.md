@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./images/aws-desktop-final.jpg" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Project Title Image">
+  
   <h1 style="color: #ff8c42; font-weight: bold; letter-spacing: 2px;">VIRTUAL WINDOWS DESKTOP ON AWS</h1>
   
   <p><i>High-Performance Windows Environments, Anywhere in the World.</i></p>
