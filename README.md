@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./logo.png" width="120" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255, 140, 66, 0.5);" alt="Project Logo">
-  
   <h1 style="color: #ff8c42; font-weight: bold; letter-spacing: 2px;">VIRTUAL WINDOWS DESKTOP ON AWS</h1>
   
   <p><i>High-Performance Windows Environments, Anywhere in the World.</i></p>
@@ -117,7 +115,7 @@ A clean and structured look at the repository contents.
 
 ```bash
 Virtual-Windows-Desktop-on-AWS/
-├── logo.png                   # Visual identity for the project
+├── images/                    # Project deployment screenshots
 ├── README.md                  # Premium documentation (You are here)
 └── Virtual_Windows_Desktop... # Detailed setup guide (PDF)
 ```
