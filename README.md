@@ -34,12 +34,28 @@ Access the cloud environment and experience the virtual desktop firsthand.
 ## 🖼️ Project Screenshots
 *Visual evidence of the deployment and configuration process.*
 
-| Step | Title | Description | Screenshot |
-| :--- | :--- | :--- | :--- |
-| 1 | **Windows Login Screen** | The initial connection to the virtual machine via RDP, logging in as the Administrator. | <img src="./screenshots/1-login-screen.png" width="250" alt="Login Screen"> |
-| 2 | **Virtual Desktop Environment** | The fully functional Windows desktop, displaying real-time EC2 instance details like IP, Region, and size via BgInfo. | <img src="./screenshots/2-desktop-environment.png" width="250" alt="Desktop Environment"> |
-| 3 | **Start Menu & Applications** | Access to pre-installed tools and applications, including Server Manager, Terminal, and PowerShell. | <img src="./screenshots/3-start-menu.png" width="250" alt="Start Menu"> |
-| 4 | **System Specifications** | Windows System settings confirming the hardware configuration (e.g., t3.micro) provided by AWS. | <img src="./screenshots/4-system-settings.png" width="250" alt="System Settings"> |
+### 1. Windows Login Screen
+The initial connection to the virtual machine via RDP, logging in as the Administrator.
+
+<img src="./screenshots/1-login-screen.png" width="800" alt="Login Screen">
+<br>
+
+### 2. Virtual Desktop Environment
+The fully functional Windows desktop, displaying real-time EC2 instance details like IP, Region, and size via BgInfo.
+
+<img src="./screenshots/2-desktop-environment.png" width="800" alt="Desktop Environment">
+<br>
+
+### 3. Start Menu & Applications
+Access to pre-installed tools and applications, including Server Manager, Terminal, and PowerShell.
+
+<img src="./screenshots/3-start-menu.png" width="800" alt="Start Menu">
+<br>
+
+### 4. System Specifications
+Windows System settings confirming the hardware configuration (e.g., t3.micro) provided by AWS.
+
+<img src="./screenshots/4-system-settings.png" width="800" alt="System Settings">
 
 ---
 
