@@ -36,11 +36,10 @@ Access the cloud environment and experience the virtual desktop firsthand.
 
 | Step | Title | Description | Screenshot |
 | :--- | :--- | :--- | :--- |
-| 1 | **Instance Setup** | Initializing the Windows Server AMI on EC2. | *(Image Placeholder)* |
-| 2 | **Security Groups** | Configuring inbound rules for secure RDP access. | *(Image Placeholder)* |
-| 3 | **Remote Desktop Connection** | Establishing a session with the virtual machine. | *(Image Placeholder)* |
-| 4 | **System Configuration** | Optimizing Windows Server for performance. | *(Image Placeholder)* |
-| 5 | **Resource Monitoring** | Tracking CPU and RAM usage via AWS Console. | *(Image Placeholder)* |
+| 1 | **Windows Login Screen** | The initial connection to the virtual machine via RDP, logging in as the Administrator. | *(Image Placeholder)* |
+| 2 | **Virtual Desktop Environment** | The fully functional Windows desktop, displaying real-time EC2 instance details like IP, Region, and size via BgInfo. | *(Image Placeholder)* |
+| 3 | **Start Menu & Applications** | Access to pre-installed tools and applications, including Server Manager, Terminal, and PowerShell. | *(Image Placeholder)* |
+| 4 | **System Specifications** | Windows System settings confirming the hardware configuration (e.g., t3.micro) provided by AWS. | *(Image Placeholder)* |
 
 ---
 
