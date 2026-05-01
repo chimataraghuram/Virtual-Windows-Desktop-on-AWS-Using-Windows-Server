@@ -34,28 +34,40 @@ Access the cloud environment and experience the virtual desktop firsthand.
 ## 🖼️ Project Screenshots
 *Visual evidence of the deployment and configuration process.*
 
-### 1. Windows Login Screen
-The initial connection to the virtual machine via RDP, logging in as the Administrator.
+### 1. Initial Connection & Setup
+The initial connection to the virtual machine via RDP.
 
-<img src="./screenshots/1-login-screen.png" width="800" alt="Login Screen">
+<img src="./images/Screenshot%202026-05-01%20221618.png" width="800" alt="Screenshot 1">
 <br>
 
 ### 2. Virtual Desktop Environment
-The fully functional Windows desktop, displaying real-time EC2 instance details like IP, Region, and size via BgInfo.
+The fully functional Windows desktop environment, displaying real-time EC2 instance details.
 
-<img src="./screenshots/2-desktop-environment.png" width="800" alt="Desktop Environment">
+<img src="./images/Screenshot%202026-05-01%20221652.png" width="800" alt="Screenshot 2">
 <br>
 
 ### 3. Start Menu & Applications
-Access to pre-installed tools and applications, including Server Manager, Terminal, and PowerShell.
+Access to pre-installed tools and applications, including Server Manager and PowerShell.
 
-<img src="./screenshots/3-start-menu.png" width="800" alt="Start Menu">
+<img src="./images/Screenshot%202026-05-01%20221708.png" width="800" alt="Screenshot 3">
 <br>
 
 ### 4. System Specifications
-Windows System settings confirming the hardware configuration (e.g., t3.micro) provided by AWS.
+Windows System settings confirming the hardware configuration provided by AWS.
 
-<img src="./screenshots/4-system-settings.png" width="800" alt="System Settings">
+<img src="./images/Screenshot%202026-05-01%20221721.png" width="800" alt="Screenshot 4">
+<br>
+
+### 5. Additional Configurations
+Further system setup and exploration of the Windows Server environment.
+
+<img src="./images/Screenshot%202026-05-01%20221731.png" width="800" alt="Screenshot 5">
+<br>
+
+### 6. Final Verification
+Final checks ensuring the deployment is secure, stable, and ready for development.
+
+<img src="./images/Screenshot%202026-05-01%20221746.png" width="800" alt="Screenshot 6">
 
 ---
 
